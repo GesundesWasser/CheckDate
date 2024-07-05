@@ -1,0 +1,17 @@
+{
+  "name": "CheckDate",
+  "version": "1.0.0",
+  "description": "A simple JavaScript library to check if today's date matches a specified date",
+  "main": "CheckDate.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "Wagger",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {},
+  "devDependencies": {}
+}
